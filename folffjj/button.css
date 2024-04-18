@@ -1,0 +1,18 @@
+button{
+    background-color:white;
+    color: black;
+}
+.red
+{
+    background-color: red;
+}
+#black
+{
+    background-color:hsl(151, 25%, 43%);
+}
+body
+{
+background:linear-gradient(to left, red,black,green
+);
+height:50vh;
+}
